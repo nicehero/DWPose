@@ -1,11 +1,10 @@
 import json
 import os
-from dwpose import DwposeDetector
 from PIL import Image
 
 #if u need proxy
-os.environ['http_proxy'] = "http://127.0.0.1:1080"
-os.environ['https_proxy'] = "http://127.0.0.1:1080"
+#os.environ['http_proxy'] = "http://127.0.0.1:1080"
+#os.environ['https_proxy'] = "http://127.0.0.1:1080"
 
 img = Image.open("test.jpg") #your image file
 
