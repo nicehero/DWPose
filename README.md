@@ -1,4 +1,20 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/nicehero/DWPose/main/title.jpg"/>
+</div>
+
+<div align="center">
+    
+[![PyPI](https://img.shields.io/pypi/v/dwpose)](https://pypi.org/project/dwpose/)
+
+</div>
+
 # Easy DWPose Detector
+
+Effective Whole-body Pose Estimation with Two-stages Distillation
+
+[DWPose official](https://github.com/IDEA-Research/DWPose)
+
+
 
 ## Installation
 ```shell
