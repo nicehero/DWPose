@@ -21,7 +21,7 @@ Effective Whole-body Pose Estimation with Two-stages Distillation
 #need install pytorch for your platform
 #pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 pip3 install onnxruntime==1.13.1
-pip3 onnxruntime_gpu==1.13.1
+pip3 install onnxruntime_gpu==1.13.1
 pip3 install matplotlib==3.6.2
 pip3 install opencv_python==4.7.0.68
 pip3 install scipy==1.11.4
@@ -33,7 +33,6 @@ pip3 install dwpose
 ```python
 import json
 import os
-from dwpose import DwposeDetector
 from PIL import Image
 
 #if u need proxy
